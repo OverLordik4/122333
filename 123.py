@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # ===== НАСТРОЙКИ =====
-TOKEN = "7839291158:AAG734g3awsPsQ3kA_u5P7JJeLh9133u_HA"
+TOKEN = "8479652082:AAF87h20MH0fF6ZCHXupk6EPSml5CvY8AIE"
 ADMIN_ID = 5059000308
 LOG_GROUP_ID = -1003699875240
 PHOTO_PATH = r"фото бота/фото.jpg"
@@ -236,3 +236,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
